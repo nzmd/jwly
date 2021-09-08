@@ -44,6 +44,6 @@
 
 联系邮箱 jieseclub.top@qq.com
 
-# 公众号
+# qq群
 
-![微信公众号.png](https://i.loli.net/2020/01/03/tlFofKvjQ745rDC.png)
+ 69265144

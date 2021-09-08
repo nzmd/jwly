@@ -6,11 +6,11 @@ module.exports = {
   // head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
   themeConfig: {
-    logo: 'https://vuejs.org/images/logo.png',
+    logo: 'https://i.loli.net/2021/09/08/lb9vWrfQA4XL5oT.png',
     repo: 'nzmd/jwly',
     sidebar: {
       // '/': ['0','1','2'],
-      '/': generateArray(0,76),
+      '/': generateArray(0,113),
     }
 
     //   locales: {
