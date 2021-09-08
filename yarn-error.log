@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\MyPC\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\MyPC\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\MyPC\bin;C:\Program Files\Amazon Corretto\jdk1.8.0_262\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;D:\develop\java\maven\apache-maven-3.6.3\bin;C:\Go\bin;C:\Program Files (x86)\GnuWin32\bin;D:\develop\android\adb;C:\Program Files\WireGuard;D:\develop\flutter\bin;C:\Program Files (x86)\GnuPG\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Users\MyPC\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\MyPC\AppData\Local\Programs\Python\Python39;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\MyPC\.cargo\bin;C:\Users\MyPC\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.3\bin;C:\Users\MyPC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\MyPC\go\bin;C:\Users\MyPC\AppData\Local\Programs\Fiddler;C:\Users\MyPC\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  14.17.6
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\MyPC\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:96815:59)
+      at Object.<anonymous> (C:\Users\MyPC\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:89088:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\MyPC\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\MyPC\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
