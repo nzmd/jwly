@@ -1,4 +1,4 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nzmd/books) 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nzmd/jwly) 
 
 # 前言
 
@@ -12,11 +12,14 @@
 
 > 恣其情欲 ，则命同朝露也！—— 孙思邈
 
+
 # 下载
 
-[pdf](http://nzmd.cn-sh2.ufileos.com/book.pdf)
+[链接:](https://pan.baidu.com/s/1MwEyZ8xbwn_nuaisy-EsDA) https://pan.baidu.com/s/1MwEyZ8xbwn_nuaisy-EsDA 提取码: b4hi 
 
-[epub](http://nzmd.cn-sh2.ufileos.com/book.epub)
+# qq群
+
+ 69265144
 
 # 简介
 
@@ -34,16 +37,12 @@
 
 > 因为该账号可能会被百度贴吧封闭，如果打不开可以自行到戒色吧寻找飞翔老师的最新账号
 
-# 戒色网站推荐
-
-[戒者录](https://jieseclub.top/)
-
 # 说明
 
 本网站只是从贴吧里把飞翔老师的戒为良药整理出来方便广大戒友阅读下载，欢迎收藏分享给更多需要的戒友
 
 联系邮箱 jieseclub.top@qq.com
 
-# qq群
-
- 69265144
+![戒色十规.jpg](https://i.loli.net/2019/09/26/scxeRdDC8zL3rbi.jpg)
+![戒者应该具备的70项品质.jpg](https://i.loli.net/2019/09/26/qZTF2a8sQRtPS6p.jpg)
+![德训篇.jpg](https://i.loli.net/2019/09/26/AaywqNOiRW5Pd7t.jpg)
