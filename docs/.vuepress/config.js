@@ -10,44 +10,8 @@ module.exports = {
     repo: 'nzmd/jwly',
     sidebar: {
       // '/': ['0','1','2'],
-      '/': generateArray(0,113),
+      '/': generateArray(0,140),
     }
-
-    //   locales: {
-    //     '/': {
-    //       label: 'English',
-    //       selectText: 'Languages',
-    //       editLinkText: 'Edit this page on GitHub',
-    //       lastUpdated: 'Last Updated',
-    //       nav: [{
-    //           text: 'PC Web',
-    //           link: '/list/',
-    //         }, {
-    //           text: 'Android',
-    //           link: '/android/'
-    //         }, {
-    //           text: 'IOS',
-    //           link: '/ios/'
-    //         }, {
-    //           text: 'HTML5',
-    //           link: '/h5/'
-    //         }, {
-    //           text: 'ShoppingCart plug-in',
-    //           link: '/cart/'
-    //         }, {
-    //           text: 'WechatMiniProgram',
-    //           link: '/wx/'
-    //         }, {
-    //           text: 'Express Pay',
-    //           link: '/expup/'
-    //         },
-
-    //       ],
-    //       sidebar: {
-    //         '/list/': ['001','002'],
-    //       }
-    //     },
-    // },
   }
 }
 
