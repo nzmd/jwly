@@ -2,15 +2,48 @@
     margin:0px;
     padding:0px;
 }
-.Box{
-    list-style: none;
-}
-.Box li{
-    height: 50px;
-}
+// 顶部栏样式设置
 .Head{
     background-color: rgba(82,146,254,);
     height: 50px;
     width: 120%;
-    margin: -10px 0 0 -15px ;
+    position: fixed;
+    top:0;
+    left:0;
+}
+.Head img{
+    height:60%;
+    position: absolute; 
+    left:1%;
+    bottom:20%;
+}
+// 去掉li样式
+.Box{
+    list-style: none;
+    clear:both;
+}
+// 第一本书籍设置顶部栏高度的边距
+.Box li:first-child {
+    margin-top: 50px;
+}
+// 所有书籍li样式设置
+.Box li{
+    height: 100px;
+    border-bottom: 1px solid #e0e0e0;
+}
+//所有书籍封面样式设置
+.Box li div {
+    height: 100px;
+    padding: 1% 0;
+    float: left;
+    
+}
+.Box li div img{
+    height: 100%;
+}
+.Box li div p{
+    line-height: 80px;
+    font-size: large;
+    font-weight: 700;
+    margin-left: 10px;
 }

@@ -24,8 +24,9 @@ class App extends Component {
 	async componentDidMount() {
 
 	}
-	fun = async () => {
-
+	ReturnBack = async (data) => {
+		console.log(data, '接收子组件返回按键传值')
+		await this.setState({ show: data })
 	}
 
 	render() {
@@ -36,7 +37,7 @@ class App extends Component {
 					this.state.show === 1
 						? <div>
 							{/* 图片轮播区域 ↓↓↓*/}
-							<Carousel> </Carousel>
+							<Carousel />
 							{/* 导航区 ↓↓↓*/}
 							<div className='Nav' style={{ marginTop: '10px' }}  >
 								<Row gutter={16}>
@@ -123,7 +124,7 @@ class App extends Component {
 				}
 				{
 					this.state.show === 4
-						? <Read></Read>
+						? <Read ReturnBack={this.ReturnBack} />
 						: ' '
 				}
 				{/* 页尾部分 ↓↓↓ */}
